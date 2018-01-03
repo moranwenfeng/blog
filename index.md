@@ -3,9 +3,9 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+文本可以通过 **变粗**  ,_斜体_,或者加~~删除线~~.
 
 [Link to another page](another-page).
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
